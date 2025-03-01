@@ -58,12 +58,3 @@ When feeding code to LLMs, token limits can be a bottleneck. This script:
 ## License
 
 MIT License.
-
----
-
-### Why This Version Rocks
-
-- **Straight to the Point**: Highlights the token-saving mission upfront.
-- **User-Friendly**: Simple steps and clear prompts for both platforms.
-- **Engaging**: Explains *why* this matters for LLM users.
-- **Compact**: Cuts fluff while keeping all the essentials.
